@@ -1,0 +1,17 @@
+<svg id="Header_White" data-name="Header White" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="22" viewBox="0 0 1792 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29" height="11" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cart" transform="translate(-60 -43)">
+    <text id="cart-2" data-name="cart" transform="translate(1611 60)" fill="#f7f8fa" font-size="14" font-family="Helvetica" letter-spacing="0.75em"><tspan x="0" y="0">CART</tspan></text>
+    <text id="_0" data-name="0" transform="translate(1725 60)" fill="#f7f8fa" font-size="14" font-family="Helvetica" letter-spacing="0.75em"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <g id="Menu_White" data-name="Menu White" transform="translate(1763 7)" clip-path="url(#clip-path)">
+    <rect id="Line" width="29" height="2" fill="#fff"/>
+    <rect id="Rectangle" width="29" height="2" transform="translate(0 9)" fill="#fff"/>
+  </g>
+  <text id="Sarah_Cornish" data-name="Sarah Cornish" transform="translate(806 17)" fill="#f7f8fa" font-size="18" font-family="BigCaslon-Medium, Big Caslon" font-weight="500" letter-spacing="0.111em"><tspan x="0" y="0">SARAH CORNISH</tspan></text>
+  <text id="Shop_Now" data-name="Shop Now" transform="translate(0 17)" fill="#f7f8fa" font-size="14" font-family="Helvetica" letter-spacing="0.75em"><tspan x="0" y="0">SHOP NOW</tspan></text>
+</svg>

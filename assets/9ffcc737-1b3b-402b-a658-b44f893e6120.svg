@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="11" viewBox="0 0 29 11">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29" height="11" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_White" data-name="Menu White" clip-path="url(#clip-path)">
+    <rect id="Line" width="29" height="2" fill="#fff"/>
+    <rect id="Rectangle" width="29" height="2" transform="translate(0 9)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="Header_Black" data-name="Header Black" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1792" height="32" viewBox="0 0 1792 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="29" height="11" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Menu_Black" data-name="Menu Black" transform="translate(1763 7)" clip-path="url(#clip-path)">
+    <rect id="Rectangle" width="29" height="2" transform="translate(0 9)"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="29" height="2"/>
+  </g>
+  <g id="Cart_0" data-name="Cart 0" transform="translate(-60 -43)">
+    <rect id="Rectangle-3" data-name="Rectangle" width="124" height="2" transform="translate(1611 73)" fill="#fa6a18"/>
+    <text id="cart" transform="translate(1611 60)" font-size="14" font-family="Helvetica" letter-spacing="0.75em"><tspan x="0" y="0">CART</tspan></text>
+    <text id="_0" data-name="0" transform="translate(1725 60)" font-size="14" font-family="Helvetica" letter-spacing="0.75em"><tspan x="0" y="0">0</tspan></text>
+  </g>
+  <text id="molley_heltz" data-name="molley heltz" transform="translate(807 17)" font-size="18" font-family="BigCaslon-Medium, Big Caslon" font-weight="500" letter-spacing="0.111em"><tspan x="0" y="0">SARAH CORNISH</tspan></text>
+  <text id="shop_now" data-name="shop now" transform="translate(0 17)" font-size="14" font-family="Helvetica" letter-spacing="0.75em"><tspan x="0" y="0">SHOP NOW</tspan></text>
+</svg>

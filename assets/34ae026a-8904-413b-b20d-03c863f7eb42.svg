@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402" height="106" viewBox="0 0 402 106">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="402" height="106" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="20" height="20" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="21" height="2" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Quantity" clip-path="url(#clip-path)">
+    <rect id="Rectangle" width="402" height="106" fill="#fff" opacity="0.5"/>
+    <g id="Add" transform="translate(319 44)" clip-path="url(#clip-path-2)">
+      <path id="Add-2" data-name="Add" d="M9,20V11H0V9H9V0h2V9h9v2H11v9Z"/>
+    </g>
+    <text id="_1" data-name="1" transform="translate(192 62)" font-size="24" font-family="Helvetica" letter-spacing="0.143em"><tspan x="0" y="0">1</tspan></text>
+    <g id="Minus" transform="translate(54 53)" clip-path="url(#clip-path-3)">
+      <rect id="Rectangle-2" data-name="Rectangle" width="21" height="2"/>
+    </g>
+  </g>
+</svg>

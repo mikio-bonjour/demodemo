@@ -1,0 +1,511 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-07-06T22:30:31.218Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "5f37b1b5-60c6-4baa-8a48-8b04972c3844",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "コンポーネント 26",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "026a5351-6671-4535-b8a1-38b84d1c98ab",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "4a435e18-8730-4d78-b551-b16ffd611f49",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "member lock",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "043cdc10-3531-4353-b04d-a3bb65a600da",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "00659c32-cc2b-4103-af2c-85b1bdf460c8",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "コンポーネント 27",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "40640848-c3e3-42a9-b236-8ab8cfeaa976",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "a7cc8aa4-dad4-4445-96a0-1c73808417f3",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Icon - SNS Set",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "30e6d3a2-9ecf-4ad4-b43f-47acc805fc9c",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "2bd8907e-4a60-4200-ab17-485ed5dd2a42",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Quantity",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "34ae026a-8904-413b-b20d-03c863f7eb42",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "4863d816-3222-4bb2-b123-6f2dcea8fb11",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Header White",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "b039c50a-932d-4248-b06f-04ba564cd9d9",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "473024df-080d-4ca6-8c52-3bb851d2cceb",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Header Black",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "1e5d15e6-a6d6-4ffc-b4d2-f44000394c3c",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "336cf926-7f06-4c3a-9e9b-d2fbf206f42d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "members",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "28a13a1e-6be9-4e10-8cef-528875268fa2",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "7876e16e-771b-4279-9034-6f5e7e40e2b0",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Icon - Instagram",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "441524f8-4ad0-47d1-8a19-9dac02064f7c",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "1eefe007-5a4a-420f-8752-d0d62b85d976",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Any",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "26968dfc-907b-4f6b-b8b8-82abcda37826",
+        "last_sync": "2021-07-06T22:30:31.216Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "1a6822b2-0d4a-4a43-a0c9-9559a7b8e490",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "What else",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "7457de24-a9fe-4b13-b792-d00ccdd0a879",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "bf30d59f-4b55-42fb-9d89-5af783a619ee",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Shop All ",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "7d5c336c-fa53-4fab-8473-164572a62cd7",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "36dd321c-67ee-43c9-b785-4541e4c39a4b",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Menu Inactive",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "1e38d551-eb49-491d-80b1-58ec9e9cedbe",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "19ff4f0a-c941-4cbe-96cf-36a974280d99",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Add",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "70e296f3-d895-4138-975c-f2e0ce07203f",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d2eb9342-2ab8-4ff9-aa7e-a81fc5582e0d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Menu Hover",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "b9bfbf4f-04e0-4398-b593-046dd0d25f9d",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "f0846f97-81bf-49cb-baaa-735ce4a4b5a6",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Buy Now",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "5dbc9679-35a9-4a14-b084-76150f363006",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "60cfa87e-cc94-40d5-86cf-73e511b636b7",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Icon - Facebook",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "1fe06c55-b316-483f-8e74-d82dab2e8a47",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c9e5a4de-aedd-4eaf-9e17-1d834943d823",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Checkout Small",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "44e255c4-4ba2-4175-968c-a5ba13a9a846",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "31044bfb-8718-4e12-8265-f0c374459ac3",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Icon - Twitter",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "68213554-1c70-4b64-b9a6-066c39ad7394",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "356b196a-dba2-44c2-ae87-7915e1d1a23b",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Minus",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "c0951dcd-19e3-4943-a24d-395f7789dba7",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "635099bc-f0c5-4b1e-99f1-1d6bd7c4148e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "shadow",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "544bea7b-42e3-4695-9983-32023ee17e08",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "dd7b328e-58cc-4762-a396-2176515f9f77",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "More Button",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "22e7906d-602a-4f01-ad5b-78daba3f1a06",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "ca8b49f9-c8f7-40b4-a5fe-d4aa4b804e2e",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Menu Black",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "512346fc-40c8-4ba8-9d34-293acad3a277",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "5a3a8f93-f442-4bb1-99f6-b39d7e53c2ff",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Play Black",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "5055c5e0-7c6d-490e-8dde-45e8a9f48bb2",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "3399da5a-cc1c-41d8-ac46-0a282404fae9",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Arrow Right Black",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "bfd409ed-e4e3-4a77-88d1-355e37d9eab2",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "6f8d279e-f9b3-4a66-a3a5-71c08aebdac6",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Menu White",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "9ffcc737-1b3b-402b-a658-b44f893e6120",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "d6f6a2ea-e42d-43a0-a533-bfc79fbde913",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Checkout Big",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "ba121882-dce1-4f53-b0ec-afc919dec596",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "1bf9ef40-2433-4d4b-ad19-7b18bc33b569",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Play video",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "f6ec1c60-8e52-4e1e-ac17-72e8f112ac8e",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      }
+    }
+  ]
+}

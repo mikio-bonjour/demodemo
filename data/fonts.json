@@ -1,0 +1,211 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2021-07-06T22:30:31.218Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "3fc612f2-793a-4bb9-9392-c73f2ce0c0b9",
+      "name": "PingFang TC — 23pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "fdbe8f21-4389-443d-989c-5a5011503298",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "3fc612f2-793a-4bb9-9392-c73f2ce0c0b9",
+          "type": "custom",
+          "value": "PingFang TC",
+          "key": "family"
+        },
+        {
+          "id": "3fc612f2-793a-4bb9-9392-c73f2ce0c0b9",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "3fc612f2-793a-4bb9-9392-c73f2ce0c0b9",
+          "type": "size",
+          "value": "23",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "8dae5d0e-8136-4a85-8d74-b4d022ea24c2",
+      "name": "ヒラギノ明朝 ProN — 36pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "5efb0ae4-b449-40bf-8bd9-40be7e8de4be",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "8dae5d0e-8136-4a85-8d74-b4d022ea24c2",
+          "type": "custom",
+          "value": "Hiragino Mincho ProN",
+          "key": "family"
+        },
+        {
+          "id": "8dae5d0e-8136-4a85-8d74-b4d022ea24c2",
+          "type": "custom",
+          "value": "W6",
+          "key": "weight"
+        },
+        {
+          "id": "8dae5d0e-8136-4a85-8d74-b4d022ea24c2",
+          "type": "size",
+          "value": "36",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "42115ee5-18ae-4562-9f1e-3d270dbc98b9",
+      "name": "Poppins — 69pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "e4ddd7b1-6398-4fbb-8245-97cbacb5f7a6",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "42115ee5-18ae-4562-9f1e-3d270dbc98b9",
+          "type": "custom",
+          "value": "Poppins",
+          "key": "family"
+        },
+        {
+          "id": "42115ee5-18ae-4562-9f1e-3d270dbc98b9",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "42115ee5-18ae-4562-9f1e-3d270dbc98b9",
+          "type": "size",
+          "value": "69",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "2bd2aa1f-f58d-44cf-88c4-b51e37e97bb2",
+      "name": "Futura PT — 60pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "0084613c-a80b-4b8b-b1c4-6a8fff9c2e7b",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "2bd2aa1f-f58d-44cf-88c4-b51e37e97bb2",
+          "type": "custom",
+          "value": "Futura PT",
+          "key": "family"
+        },
+        {
+          "id": "2bd2aa1f-f58d-44cf-88c4-b51e37e97bb2",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "2bd2aa1f-f58d-44cf-88c4-b51e37e97bb2",
+          "type": "size",
+          "value": "60",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "20148369-48bf-46bd-a1b1-389072d21f30",
+      "name": "Montserrat — 12pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "1ae191f2-3489-46fa-8b7e-fa4d4f45d010",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "20148369-48bf-46bd-a1b1-389072d21f30",
+          "type": "custom",
+          "value": "Montserrat",
+          "key": "family"
+        },
+        {
+          "id": "20148369-48bf-46bd-a1b1-389072d21f30",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "20148369-48bf-46bd-a1b1-389072d21f30",
+          "type": "size",
+          "value": "12",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "99a3c3d4-b75c-407d-b612-e0a590c0a266",
+      "name": "源ノ角ゴシック JP — 18pt",
+      "tags": [],
+      "related_entity_ids": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/58f0cc65-1cc7-433b-713b-1f0cf8be7aa2",
+        "id": "cc802941-8772-46d7-934e-14df455c422a",
+        "last_sync": "2021-07-06T22:30:31.217Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "99a3c3d4-b75c-407d-b612-e0a590c0a266",
+          "type": "custom",
+          "value": "Source Han Sans JP",
+          "key": "family"
+        },
+        {
+          "id": "99a3c3d4-b75c-407d-b612-e0a590c0a266",
+          "type": "custom",
+          "value": "Normal",
+          "key": "weight"
+        },
+        {
+          "id": "99a3c3d4-b75c-407d-b612-e0a590c0a266",
+          "type": "size",
+          "value": "18",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}

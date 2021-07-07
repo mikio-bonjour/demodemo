@@ -1,0 +1,26 @@
+<svg id="Menu_Hover" data-name="Menu Hover" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="354.849" height="370.067" viewBox="0 0 354.849 370.067">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle" width="44.375" height="33.292" fill="#545871"/>
+    </clipPath>
+    <filter id="Path" x="319.169" y="58.496" width="26.06" height="21.864" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.561"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <text id="Contact" transform="translate(175.207 350.067)" fill="#fff" font-size="58" font-family="Poppins-Regular, Poppins" opacity="0.15"><tspan x="-138.881" y="0">CONTACT</tspan></text>
+  <text id="Resume" transform="translate(188.889 277.762)" fill="#fff" font-size="58" font-family="Poppins-Regular, Poppins" opacity="0.15"><tspan x="-108.953" y="0">RESUME</tspan></text>
+  <text id="Look_book" data-name="Look book" transform="translate(164 205.457)" fill="#fff" font-size="58" font-family="Poppins-Regular, Poppins" opacity="0.15"><tspan x="-163.966" y="0">LOOK BOOK</tspan></text>
+  <text id="Videos" transform="translate(191.985 133.152)" fill="#fff" font-size="58" font-family="Poppins-Regular, Poppins" opacity="0.15"><tspan x="-101.935" y="0">VIDEOS</tspan></text>
+  <text id="Shop" transform="translate(203.365 61)" fill="#fff" font-size="58" font-family="Poppins-Regular, Poppins"><tspan x="-144.101" y="0">Members </tspan><tspan x="0" y="100"></tspan></text>
+  <g id="Pointer" transform="translate(310.473 51.761)">
+    <g id="Hand" transform="translate(0)" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, -310.47, -51.76)" filter="url(#Path)">
+        <path id="Path-2" data-name="Path" d="M12.408,20.884c-.416-.416-.832-1.144-1.664-2.081-.416-.52-1.664-1.561-2.08-1.977a.967.967,0,0,1-.139-1.04,1.918,1.918,0,0,1,1.941-1.144,4.267,4.267,0,0,1,1.941.728c.277.208.693.624.971.832s.277.312.555.52c.277.312.416.52.277.1-.139-.52-.277-1.352-.555-2.185A6.865,6.865,0,0,0,13.24,13.5c-.139-.52-.277-.832-.416-1.352-.139-.312-.277-1.144-.416-1.561a1.884,1.884,0,0,1,.416-1.873,2.159,2.159,0,0,1,1.8-.208,2.784,2.784,0,0,1,1.248,1.352,6.956,6.956,0,0,1,.693,2.081,28.455,28.455,0,0,1,.693,2.913,5.88,5.88,0,0,1,0-1.561,1.339,1.339,0,0,1,.971-.832,5.062,5.062,0,0,1,1.248-.1,3.29,3.29,0,0,1,1.109.52,3.565,3.565,0,0,1,.555,1.873,7.318,7.318,0,0,1,.416-1.665,2.6,2.6,0,0,1,.971-.52,3.12,3.12,0,0,1,1.387,0,1.671,1.671,0,0,1,.971.52,7.033,7.033,0,0,1,.555,1.769,5.468,5.468,0,0,1,.416-.728c.555-.624,2.5-.832,2.635.624v2.393a7.823,7.823,0,0,1-.277,1.769,5.871,5.871,0,0,1-.971,1.457s-1.525,1.248-1.664,1.873a3.275,3.275,0,0,0-.139,1.04,4.391,4.391,0,0,0,.139.936,8.34,8.34,0,0,1-1.664,0,2.6,2.6,0,0,1-1.387-1.144.62.62,0,0,0-.971,0c-.277.416-.971,1.144-1.525,1.144-.971.1-2.912,0-4.3,0,0,0,.277-1.04-.277-1.457l-1.525-1.144Z" transform="translate(313.74 52.1)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

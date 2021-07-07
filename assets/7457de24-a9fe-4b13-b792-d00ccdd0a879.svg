@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="283" height="34" viewBox="0 0 283 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="283" height="34" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="What_else" data-name="What else" clip-path="url(#clip-path)">
+    <rect id="Rectangle" width="283" height="2" transform="translate(0 32)" fill="#fa6a18"/>
+    <text id="What_else-2" data-name="What else" transform="translate(12 14)" fill="#fa6a18" font-size="14" font-family="Helvetica" letter-spacing="1.714em"><tspan x="0" y="0">WHAT ELSE</tspan></text>
+  </g>
+</svg>

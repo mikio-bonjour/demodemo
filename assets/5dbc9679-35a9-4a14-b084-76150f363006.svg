@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="402" height="106" viewBox="0 0 402 106">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="402" height="106" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Buy_Now" data-name="Buy Now" clip-path="url(#clip-path)">
+    <rect id="Rectangle" width="402" height="106"/>
+    <text id="Buy_now-2" data-name="Buy now" transform="translate(152 60)" fill="#fff" font-size="18" font-family="Helvetica" letter-spacing="0.143em"><tspan x="0" y="0">BUY NOW</tspan></text>
+  </g>
+</svg>
